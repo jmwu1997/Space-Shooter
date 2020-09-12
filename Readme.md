@@ -30,3 +30,5 @@ After finish, connect your Arduino to Raspberry Pi
 5. `./rungame.sh`
 
 Now you should see the image comes up on the led matrix
+
+Short Demo Link: https://drive.google.com/open?id=12EcEZppbxfB3WhS9oTiQqW1d3CG7j7AC
