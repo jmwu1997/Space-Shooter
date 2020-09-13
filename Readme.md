@@ -1,6 +1,6 @@
 ## Star Shooter Arcade
 
-This project use [hzeller](https://github.com/hzeller)‘s **[rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)** quite extensively. Since this led matrix library is developed with Raspberry Pi in mind, running it on Beaglebone might no work at all. Provided you have a Pi and Arduino, here are the steps to get it up and running.
+This project use [hzeller](https://github.com/hzeller)‘s **[rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)** quite extensively. Since this led matrix library is developed with Raspberry Pi in mind, running it on Beaglebone might no work at all. Provided you have a Pi and Arduino, here are the steps to get it up and running. Detailed reports in PDF file.
 
 ### Wiring
 
