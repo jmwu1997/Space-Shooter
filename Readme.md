@@ -31,5 +31,5 @@ After finish, connect your Arduino to Raspberry Pi
 
 Now you should see the image comes up on the led matrix
 
-### Demo
+### Short gameplay demo
 Link: https://drive.google.com/open?id=12EcEZppbxfB3WhS9oTiQqW1d3CG7j7AC
