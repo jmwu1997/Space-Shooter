@@ -1,3 +1,6 @@
+### Short gameplay demo
+Link: https://drive.google.com/open?id=12EcEZppbxfB3WhS9oTiQqW1d3CG7j7AC
+
 ## Star Shooter Arcade
 
 This project use [hzeller](https://github.com/hzeller)‘s **[rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)** quite extensively. Since this led matrix library is developed with Raspberry Pi in mind, running it on Beaglebone might no work at all. Provided you have a Pi and Arduino, here are the steps to get it up and running. Detailed reports in PDF file.
@@ -31,5 +34,3 @@ After finish, connect your Arduino to Raspberry Pi
 
 Now you should see the image comes up on the led matrix
 
-### Short gameplay demo
-Link: https://drive.google.com/open?id=12EcEZppbxfB3WhS9oTiQqW1d3CG7j7AC
