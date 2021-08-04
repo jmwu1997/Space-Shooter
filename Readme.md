@@ -1,3 +1,9 @@
+Contributor:
+Jia Ming Wu
+Levana He
+Mark Wu
+YiWei Ma
+
 ### Short gameplay demo
 Link: https://drive.google.com/open?id=12EcEZppbxfB3WhS9oTiQqW1d3CG7j7AC
 
