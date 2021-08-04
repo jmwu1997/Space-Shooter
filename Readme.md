@@ -1,7 +1,11 @@
 Contributor:
+
 Jia Ming Wu
+
 Levana He
+
 Mark Wu
+
 YiWei Ma
 
 ### Short gameplay demo
